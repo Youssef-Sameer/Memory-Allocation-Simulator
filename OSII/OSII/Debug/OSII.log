@@ -1,0 +1,4 @@
+﻿  OSII.cpp
+D:\Desktop\Final sub\OSII\OSII\OSII.cpp(18,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Desktop\Final sub\OSII\OSII\OSII.cpp(23,27): warning C4101: 'l': unreferenced local variable
+  OSII.vcxproj -> D:\Desktop\Final sub\OSII\Debug\OSII.exe
